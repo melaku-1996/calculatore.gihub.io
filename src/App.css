@@ -14,6 +14,12 @@
   background: #000;
   /* background: radial-gradient(rgb(143, 170, 250), royalblue); */
 }
+@media screen and (max-width:650px){
+  .container{
+    gap: 50px;
+  /* background: radial-gradient(rgb(143, 170, 250), royalblue); */
+}
+}
 h1{
   font-size: 60px;
   -webkit-background-clip: text;
